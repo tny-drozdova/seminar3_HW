@@ -114,3 +114,14 @@ VSСode дает возможность выбрать какое изменен
 Чтобы удалить ветку, которая больше не нужно (например после слияния) используется команда
 
     git branch -d <имя_ветки>
+
+# Cloning a remote repo to my local repo
+
+1. Fork a remote repo that you want to improve/work in
+2. Copy the link to the repote repo
+3. Create a new folder on the desktop where you'll be working on the cloned repo
+4. Clone the repo using the following command
+
+        git clone url_address
+
+
