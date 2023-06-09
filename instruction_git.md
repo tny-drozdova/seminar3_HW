@@ -124,4 +124,16 @@ VSСode дает возможность выбрать какое изменен
 
         git clone url_address
 
+## Important note 1
+
+Before working with the cloned repo, go to the cloned repo using the following command:
+
+    cd repo_name
+
+## Important note 2
+
+All updates should be offerend on a new branch. WE create a new branch where we will write the updates. The command is the following:
+
+    git branch branch name
+
 
