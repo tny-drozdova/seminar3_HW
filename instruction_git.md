@@ -137,3 +137,18 @@ All updates should be offerend on a new branch. WE create a new branch where we 
     git branch branch name
 
 
+## Updating the info on remote repo from the local repo
+
+When the updates on the local repo are made, we are usign the following command to send them to the repo repo:
+
+    git push
+
+## Updating the local repo after some changes on the remote repo
+
+When the remote repo was changed and we need to see those updates on our locar repo, we simply use the following command in our locar repo: 
+
+    git pull
+
+*Important to mention, that those commands will work when the remote and local repos have already exchanged files between each other*
+
+
