@@ -161,3 +161,18 @@ When the remote repo was changed and we need to see those updates on our locar r
 5. We click on the "Open pull request" button
 
 
+# Adding the screenshot from the seminar 
+
+The command to add the image is the following:
+
+![GitHubscreenshot](screen.png)
+
+
+
+## **The end of updates**
+
+
+
+
+
+
