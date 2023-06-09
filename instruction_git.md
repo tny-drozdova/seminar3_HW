@@ -152,3 +152,12 @@ When the remote repo was changed and we need to see those updates on our locar r
 *Important to mention, that those commands will work when the remote and local repos have already exchanged files between each other*
 
 
+## How to create Pull request
+
+1. We update the file and commit all the updates on our new branch
+2. We push our updated from our local repo to our remote repo
+3. WE update our GitHub remote repository page
+4. We change the branch from main to a new branch with updated
+5. We click on the "Open pull request" button
+
+
